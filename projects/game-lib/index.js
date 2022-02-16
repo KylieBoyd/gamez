@@ -64,7 +64,7 @@
            },
            logger(value){
                console.log(value)
-           }
+           } 
           };
         },
       },
